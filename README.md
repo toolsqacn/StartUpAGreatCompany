@@ -28,4 +28,4 @@
 
     **时牧敏捷社区：**
 
-![时牧敏捷社区：](https://img-blog.csdn.net/20180618191422994?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dpbnRlcm9haw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![时牧敏捷社区：](https://github.com/toolsqacn/StartUpAGreatCompany/blob/master/%E5%BE%AE%E4%BF%A1.jpg)
