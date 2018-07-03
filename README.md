@@ -26,6 +26,6 @@
 
 **GitChat：[一位经验丰富的程序员如何建立网络初创企业？](http://gitbook.cn/gitchat/activity/5b27818c4ac48f2aa573bcd6)**
 
-    **时牧敏捷社区：**
+**时牧敏捷社区：**
 
 ![时牧敏捷社区：](https://github.com/toolsqacn/StartUpAGreatCompany/blob/master/%E5%BE%AE%E4%BF%A1.jpg)
